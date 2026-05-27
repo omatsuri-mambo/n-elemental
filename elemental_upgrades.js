@@ -8,6 +8,14 @@
 //   AFTER all other game scripts, e.g.:
 //     <script src="js/elemental_upgrades.js"></script>
 // ============================================================
+// CONSOLE COMMANDS
+// ============================================================
+// - tech.giveTech("earth")
+// - tech.giveTech("water")
+// - tech.giveTech("air")
+// - tech.giveTech("fire")
+// ============================================================
+
 
 (function () {
   "use strict";
